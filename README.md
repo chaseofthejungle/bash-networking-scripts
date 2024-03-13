@@ -4,3 +4,4 @@ An assortment of shell scripts, written for the bash interpreter unless otherwis
 
 diskconfig.sh: Lists out mounted filesystems, partition config, and LVM config.
 openports.sh: Lists out open ports on a host device.
+useractivity.sh: Lists out user activity, including last login, home directory modifications, and sudo command requests.
