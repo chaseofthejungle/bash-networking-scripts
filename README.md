@@ -1,7 +1,8 @@
 # shell-cybersecurity-scripts
-
-An assortment of shell scripts, written for the bash interpreter unless otherwise indicated.
-
+  
+An assortment of shell scripts, written for the bash interpreter unless otherwise indicated.  
+  
+**croncommand.sh:** Will schedule a user-specified command to run at a user-specified time interval.  
 **diskconfig.sh:** Lists out mounted filesystems, partition config, and LVM config.  
 **dnsinfo.sh:** Displays IP Address, Gateway Address, and DNS Server Address.  
 **openports.sh:** Lists out open ports on a host device.  
