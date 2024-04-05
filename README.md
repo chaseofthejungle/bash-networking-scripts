@@ -1,6 +1,6 @@
 # shell-cybersecurity-scripts
   
-An assortment of shell scripts, written for the bash interpreter unless otherwise indicated.  
+An assortment of shell scripts written for the bash interpreter.  
   
 [**croncommand.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/croncommand.sh) Will schedule a user-specified command to run at a user-specified time interval.  
 [**diskconfig.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/diskconfig.sh) Lists out mounted filesystems, partition config, and LVM config.  
