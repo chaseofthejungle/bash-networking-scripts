@@ -5,6 +5,7 @@ An assortment of shell scripts written for the bash interpreter.
 + [**croncommand.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/croncommand.sh) Will schedule a user-specified command to run at a user-specified time interval.  
 + [**diskconfig.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/diskconfig.sh) Lists out mounted filesystems, partition config, and LVM config.  
 + [**dnsinfo.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/dnsinfo.sh) Displays IP Address, Gateway Address, and DNS Server Address.  
++ [**ipassignwait.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/ipassignwait.sh) Checks if an IP address has been assigned to an interface, and waits (if necessary) until one has been.  
 + [**openports.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/openports.sh) Lists out open ports on a host device.  
 + [**passgen.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/passgen.sh) Generates a random 16-character password using numbers, letters (case-sensitive), and special characters.  
 + [**reseaters.sh:**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/reseaters.sh) Used for resource monitoring: displays the top 10 CPU-consuming and memory-consuming processes presently running on a system.  
