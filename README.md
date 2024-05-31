@@ -1,4 +1,4 @@
-# bash-cybersecurity-scripts
+# bash Cybersecurity Scripts
   
 An assortment of shell scripts written for the bash interpreter.  
   
