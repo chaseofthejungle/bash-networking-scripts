@@ -1,6 +1,6 @@
 # bash Networking Scripts
   
-**Description:** An assortment of shell scripts written for the bash interpreter.  
+**Description:** An assortment of shell scripts written for the [bash](https://www.gnu.org/software/bash/) interpreter.  
   
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
