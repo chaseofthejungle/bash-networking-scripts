@@ -2,6 +2,8 @@
   
 **Description:** An assortment of shell scripts written for the [bash](https://www.gnu.org/software/bash/) interpreter.  
   
+If in need of a lightweight Linux distro to try these scripts on, consider [Xubuntu](https://xubuntu.org/tour/).
+  
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
 | [**croncommand.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/croncommand.sh) | Will schedule a user-specified command to run at a user-specified time interval.  
