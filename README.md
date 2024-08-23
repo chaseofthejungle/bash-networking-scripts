@@ -2,7 +2,7 @@
   
 **Description:** An assortment of shell scripts written for the [bash](https://www.gnu.org/software/bash/) interpreter.  
   
-If in need of a lightweight Linux distro to try these scripts on, consider [Xubuntu](https://xubuntu.org/tour/).
+*If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash simulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
   
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
