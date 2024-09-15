@@ -4,7 +4,7 @@
   
 **Prerequisite:** Basic usage of a bash-compatible text editor, such as vi or Vim.
   
-*If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash simulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
+*If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
   
 | Script File Name | Summary of Script Purpose |  
 | :----------: | :----------: |  
