@@ -6,7 +6,7 @@
   
 *If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
   
-| Script File Name | Summary of Script Purpose |  
+| Script | Purpose |  
 | :----------: | :----------: |  
 | [**croncommand.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/croncommand.sh) | Will schedule a user-specified command to run at a user-specified time interval.  
 | [**diskconfig.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/diskconfig.sh) | Lists out mounted filesystems, partition config, and LVM config.  
