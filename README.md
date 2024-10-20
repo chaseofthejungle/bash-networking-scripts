@@ -2,7 +2,7 @@
   
 **Description:** An assortment of shell scripts written for the [bash](https://www.gnu.org/software/bash/) interpreter.  
   
-**Prerequisite:** Basic usage of a bash-compatible text editor, such as vi or Vim.
+**Prerequisite:** Basic usage of a bash-compatible text editor, such as vi or Vim, and ability to run scripts at command line.
   
 *If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 bash emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
   
