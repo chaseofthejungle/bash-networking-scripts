@@ -1,6 +1,4 @@
-# bash Networking Scripts
-    
-**Prerequisite:** Basic usage of a bash-compatible text editor, such as vi or Vim, and ability to run scripts at command line.
+# bash Networking Scripts 
   
 *If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 [bash](https://www.gnu.org/software/bash/) emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
   
