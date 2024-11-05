@@ -1,6 +1,6 @@
 # bash Networking Scripts 
   
-*If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 [bash](https://www.gnu.org/software/bash/) emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
+*Note: If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 [bash](https://www.gnu.org/software/bash/) emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
   
 | Script | Purpose |  
 | ---------- | ---------- |  
