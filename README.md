@@ -13,3 +13,7 @@
 | [**reseaters.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/reseaters.sh) | Used for resource monitoring: displays the top 10 CPU-consuming and memory-consuming processes presently running on a system.  
 | [**serverinfo.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/serverinfo.sh) | Lists out date/time, uptime information, a brief memory overview, and network device identifying information.  
 | [**useractivity.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/useractivity.sh) | Lists out user activity, including last login, home directory modifications, and sudo command requests.
+  
+<hr />
+  
+See also: [bash commands Overview Guide](https://github.com/chaseofthejungle/bash-commands)
