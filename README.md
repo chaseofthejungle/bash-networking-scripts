@@ -1,7 +1,18 @@
 # bash Networking Scripts 
   
 *Note: If in need of a lightweight Linux distro, consider [Xubuntu](https://xubuntu.org/tour/). An online Fedora 33 [bash](https://www.gnu.org/software/bash/) emulator can also be found at [bellard.org/jslinux](https://bellard.org/jslinux/).*
-<br /><br />
+
+<hr />
+
+#### Table of Contents
+
+1. [Bash Scripts](#scripts)
+2. [Supplemental Resource](#supplemental)
+  
+<hr />
+  
+## <a name="scripts">1. Bash Scripts</a>
+  
 | Script | Purpose |  
 | ---------- | ---------- |  
 | [**croncommand.sh**](https://github.com/chaseofthejungle/shell-networking-scripts/blob/main/scripts/croncommand.sh) | Will schedule a user-specified command to run at a user-specified time interval.  
@@ -16,4 +27,6 @@
   
 <hr />
   
-See also: [bash commands Overview Guide](https://github.com/chaseofthejungle/bash-commands)
+## <a name="supplemental">2. Supplemental Resource</a>
+  
+* [bash commands Overview Guide](https://github.com/chaseofthejungle/bash-commands)
