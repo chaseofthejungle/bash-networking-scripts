@@ -7,7 +7,7 @@
 #### Table of Contents
 
 1. [Bash Scripts](#scripts)
-2. [Supplemental Resource](#supplemental)
+2. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -27,6 +27,8 @@
   
 <hr />
   
-## <a name="supplemental">2. Supplemental Resource</a>
+## <a name="supplemental">2. Supplemental Resources</a>
   
-* [bash commands Overview Guide](https://github.com/chaseofthejungle/bash-commands)
+* *[bash commands Overview Guide](https://github.com/chaseofthejungle/bash-commands)*
+* *[gnu.org - Bash Project](https://www.gnu.org/software/bash/)*  
+* *[Official Xubuntu Website](https://xubuntu.org/tour/)*
